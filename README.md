@@ -1,2 +1,2 @@
-# Fitness-Gym
-Final year project
+# Gym-administration
+Third year group project on a web administration page for a gym.
